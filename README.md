@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/-05-15-1224" alt="logo" target="/blank">
+<img src="https://telegra.ph/-05-15-1224.png" alt="logo" target="/blank">
 
 <h1 align="center">
  <b><a href="https://t.me/cinesandhadhi" target="/blank"> Gangster Baby ( Renamer BOT ) </a></>
